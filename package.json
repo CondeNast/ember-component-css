@@ -24,13 +24,13 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "broccoli-concat": "^3.2.2",
+    "broccoli-concat": "^4.2.2",
     "broccoli-funnel": "^2.0.1",
     "broccoli-merge-trees": "^3.0.0",
     "broccoli-persistent-filter": "^1.4.2",
     "broccoli-plugin": "^1.3.0",
     "broccoli-style-manifest": "^1.5.0",
-    "ember-cli-babel": "^6.11.0",
+    "ember-cli-babel": "^7.0.0",
     "ember-getowner-polyfill": "^2.2.0",
     "fs-tree-diff": "^0.5.6",
     "md5": "^2.2.1",
